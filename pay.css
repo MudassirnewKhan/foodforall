@@ -1,0 +1,32 @@
+.body{
+    height:100vh;
+}
+#mname{
+
+    width: 40vh;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    text-decoration-color: aliceblue;
+}
+
+.imagesec{
+
+   padding:20px;
+   margin: auto;
+   justify-content: center;
+
+}
+.mkok{
+    padding-top: 50px;
+}
+
+#about{
+    padding-top: 200px;
+}
+#wayi{
+    padding-top: 200px;
+}
+#detail{
+    width: 60vh;
+}
